@@ -38,7 +38,7 @@ This Power BI project provides a 360-degree view of a retail pharmacy's performa
 ---
 **Developed by [MOHAMED ADEL]**  
 *Data Analyst & Pharmacy Professional*  
-[LinkedIn Profile] | [Portfolio Link]
+[LinkedIn Profile] | [https://www.linkedin.com/in/mohamed-adel-zar3-658663206]
 ![Sales Analysis Preview](deep analysis.png)
 ![Sales Analysis Preview](table form.png)
 ![Sales Analysis Preview](scatter blot.png)
